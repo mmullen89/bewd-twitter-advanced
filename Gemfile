@@ -56,6 +56,7 @@ group :development, :test do
   gem 'rubocop', '~> 1.36'
   gem 'rubocop-rspec', '2.12'
   gem 'aws-sdk', '~> 3.0'
+  gem 'rails_admin', '~> 2.0'
 end
 
 group :development do
